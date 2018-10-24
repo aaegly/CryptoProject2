@@ -27,3 +27,4 @@ information on hardware wallets: https://blockgeeks.com/guides/cryptocurrency-wa
 Code References-
 https://gist.github.com/JonCooperWorks/5314103
 https://inventwithpython.com/hacking/chapter23.html
+https://gist.github.com/dendisuhubdy/e2e67d796605dbf4860aa6e94201690a
