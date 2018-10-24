@@ -23,3 +23,7 @@ References-
 pywallet: https://pypi.org/project/pywallet/
 blog on creating bitcoin wallet: https://medium.com/coinmonks/step-by-step-guide-to-programming-your-own-bitcoin-wallet-9d38942c8ae0
 information on hardware wallets: https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
+
+Code References-
+https://gist.github.com/JonCooperWorks/5314103
+https://inventwithpython.com/hacking/chapter23.html
